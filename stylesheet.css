@@ -15,6 +15,9 @@ html {
 	background-color:#eee;
 
 }
+h1{
+    background:blue;
+}
 
 #main-menu a {
 	font-weight: bold;
